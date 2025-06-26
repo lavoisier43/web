@@ -1,0 +1,190 @@
+
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <marquee><title>Paraescolar: Práctica y Colaboración Ciudadana - COBAEV</title></marquee>
+  <style>
+    body {
+      background-color: #96F789;
+      font-family: Verdana, sans-serif;
+      color: #333;
+      padding: 20px;
+    }
+
+    h1 {
+      font-size: 36px;
+      color: #004d40;
+    }
+
+    h2 {
+      font-size: 30px;
+      color: #00695c;
+    }
+
+    h3 {
+      font-size: 26px;
+      color: #00796b;
+    }
+
+    h4 {
+      font-size: 22px;
+      color: #009688;
+    }
+
+    h5 {
+      font-size: 18px;
+      color: #26a69a;
+    }
+
+    h6 {
+      font-size: 16px;
+      color: #4db6ac;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 20px;
+    }
+
+    th, td {
+      border: 1px solid #999;
+      padding: 10px;
+      text-align: center;
+    }
+
+    th {
+      background-color: #b2dfdb;
+      font-weight: bold;
+    }
+
+    form {
+      background-color: #e0f2f1;
+      padding: 20px;
+      margin-top: 30px;
+      border-radius: 10px;
+    }
+
+    input, select, textarea {
+      padding: 10px;
+      margin: 10px 0;
+      width: 100%;
+      font-size: 16px;
+      border-radius: 5px;
+      border: 1px solid #aaa;
+    }
+
+    input[type="submit"] {
+      background-color: #00796b;
+      color: white;
+      cursor: pointer;
+    }
+
+    a {
+      color: #00695c;
+      font-weight: bold;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    p {
+      line-height: 1.6;
+    }
+  </style>
+</head>
+<body>
+
+
+
+  <marquee><l><h1>Paraescolar: Práctica y Colaboración Ciudadana</h1></marquee></l>
+  <p><strong>La participación estudiantil</strong> La "paraescolar de colaboración ciudadana" se refiere a actividades extracurriculares diseñadas para fomentar la participación activa de los estudiantes en la vida de su comunidad, promoviendo valores cívicos y la responsabilidad social. Estas actividades buscan que los estudiantes no solo aprendan sobre sus derechos y deberes como ciudadanos, sino que también se involucren en la resolución de problemas y la mejora de su entorno. en actividades paraescolares es clave para el desarrollo integral del alumnado del <strong>COBAEV</strong>. Este programa fomenta valores cívicos, trabajo en equipo y compromiso social.</p>
+
+  <h2>¿Qué es la práctica y colaboración ciudadana?</h2>
+  <p>Se trata de intervenir en acciones colaborativas que propicien el aprendizaje de capacidades para intervenir socialmente, a través de proyectos concretos que tienen el objetivo de conseguir cambios en la esfera pública.
+Es una estrategia educativa que busca que los estudiantes participen activamente en la mejora de su entorno, <br>desarrollando proyectos que beneficien a su comunidad e institución.</p>
+
+  <h3>Objetivos del programa en COBAEV</h3>
+  <ul>
+    <li><strong>Fomentar la participación activa</strong> de los estudiantes en la vida comunitaria.</li>
+    <li>Promover valores como la solidaridad, respeto y responsabilidad.</li>
+    <li>Relacionar el aprendizaje con experiencias prácticas reales.</li>
+  </ul>
+
+  <h4>Actividades destacadas</h4>
+  <ol>
+    <li>Brigadas de limpieza y reciclaje.</li>
+    <li>Campañas de concientización ciudadana.</li>
+    <li>Proyectos de mejora del entorno escolar.</li>
+  </ol>
+
+<marquee><img src="C:\Users\teodo\Downloads\IMG-20250624-WA0023.jpg" alt="Descripción de la imagen"></marquee>
+
+  <h5>Resultados esperados</h5>
+  <p> Los resultados esperados de una actividad paraescolar de colaboración ciudadana incluyen el desarrollo de habilidades de participación activa, la mejora de la convivencia escolar y comunitaria, y la resolución de problemas locales de manera colaborativa y creativa. Además, se busca fortalecer el sentido de pertenencia, la identidad y el ejercicio de los derechos y deberes ciudadanos. Una comunidad estudiantil más consciente, participativa y con habilidades para resolver problemas sociales reformar las prácticas docentes y políticas de gestión, modificando la estructura, la organización y el rol de los alumnos en las escuelas, democratizando sus actividades al asumir un papel activo en su propio proceso educativo..</p>
+
+  <h6>Vinculación con otras materias</h6>
+  <p>Se relaciona con asignaturas como Ética, Formación Cívica, Ciencias Sociales y Ecología.</p>
+
+  <h2>Tabla de Actividades por Semestre</h2>
+  <table>
+    <tr>
+      <th>Semestre</th>
+      <th>Nombre del Proyecto</th>
+      <th>Tipo de Actividad</th>
+      <th>Impacto Esperado</th>
+    </tr>
+    <tr>
+      <td>1°</td>
+      <td>Mi escuela limpia</td>
+      <td>Jornada de limpieza</td>
+      <td>Mejorar el ambiente escolar</td>
+    </tr>
+    <tr>
+      <td>3°</td>
+      <td>Eco-Consciencia</td>
+      <td>Campaña de reciclaje</td>
+      <td>Reducir residuos y crear conciencia</td>
+    </tr>
+    <tr>
+      <td>5°</td>
+      <td>Comunidad activa</td>
+      <td>Jornadas de servicio social</td>
+      <td>Vinculación con la comunidad externa</td>
+    </tr>
+  </table>
+
+  <h2>Formulario de Participación</h2>
+ <form action="https://formsubmit.co/teodoroj949@gmail.com" method="POST">
+    <label for="nombre">Nombre completo:</label>
+    <input type="text" id="nombre" name="nombre" required>
+
+    <label for="semestre">Semestre que cursas:</label>
+    <select id="semestre" name="semestre">
+      <option value="1">1°</option>
+     <option value="2">2°</option>
+     <option value="3">3°</option>
+      <option value="4">4°</option>
+      <option value="5">5°</option>
+      <option value="6">6°</option>
+
+    </select>
+
+    <label for="comentarios">¿Por qué te interesa participar?</label>
+    <textarea id="comentarios" name="comentarios" rows="4"></textarea>
+
+    <input type="submit" value="Enviar inscripción">
+  </form>
+
+<marquee><img src="C:\Users\teodo\Downloads\IMG-20250624-WA0024.jpg"alt="Descripción de la imagen"></marquee>
+
+  <h2>Enlaces sobre Participación Ciudadana</h2>
+  <ul>
+    <li><a href="https://www.gob.mx/sesnsp/articulos/participacion-ciudadana-una-labor-compartida" target="_blank">Gobierno de México: Participación Ciudadana</a></li>
+    <li><a href="https://www.unesco.org/es/articles/la-educacion-para-la-ciudadania-activa" target="_blank">UNESCO: Educación para la ciudadanía activa</a></li>
+  </ul>
+
+</body>
+</html>
